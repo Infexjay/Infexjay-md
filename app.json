@@ -1,8 +1,8 @@
 {
 	"name": "Deploy",
-	"description": "Wa Bot.",
+	"description": "inf Bot.",
 	"keywords": [
-		"whatsapp",
+		"infex",
 		"bot"
 	],
 	"repository": "https://github.com/raganork-ind/whatsapp-bot",
@@ -41,22 +41,22 @@
         "STICKER_DATA": {
             "description": "Name of stickers created using bot. Can also split using ;",
             "required": true,
-            "value":"ʀᴀɢᷨᴀͦɴͭᴏʀᴋ"
+            "value":"infexjay"
         },
         "CHATBOT": {
-            "description": "AI chatbot",
+            "description": "infex chatbot",
             "required": true,
-            "value":"off"
+            "value":"on"
         },
         "BOT_NAME": {
-            "description": "Name of AI chatbot",
+            "description": "infex chatbot",
             "required": true,
-            "value":"Raganork"
+            "value":"infexjay"
         },
         "BOT_INFO": {
             "description": "Name, image, owner and other details in menu (seperate with comma)",
             "required": true,
-            "value":"Raganork,SKL11,91123456789,https://i.imgur.com/B2YWSLk.jpg"
+            "value":"infexjay,SKL11,2349130476348,https://i.imgur.com/B2YWSLk.jpg"
         },
         "AUDIO_DATA": {
             "description": "Name of audio (take) name;name;image(url)",
@@ -70,8 +70,8 @@
         },
         "SUDO": {
             "description": "These numbers can control your bot. seperate with commas",
-            "required": false,
-            "value":"919074309534"
+            "required": true,
+            "value":"2349130476348"
         },
         "ALIVE": {
             "description": "Alive message {image/link}, {sender} can also be used",
